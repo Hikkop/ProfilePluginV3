@@ -14,7 +14,7 @@ Planned Features:
   - Use a SQL database for better data management
   - Provide a GUI for easier information access/creation
   - Allow users to optionally provide different information, such as Kik usernames etc
-  - 
+
 To Do:
 
   - Import SQLibrary using Maven (currently it can't find the jar in the specified repo)
