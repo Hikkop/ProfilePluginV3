@@ -18,7 +18,7 @@ public final class Main extends JavaPlugin {
     
     @Override
     public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
-    	if (cmd.getName().equalsIgnoreCase("basic2")) {
+    	if (cmd.getName().equalsIgnoreCase("setprofile")) {
     		if (!(sender instanceof Player)) {
     			sender.sendMessage("This command can only be run by a player.");
     		} else {
