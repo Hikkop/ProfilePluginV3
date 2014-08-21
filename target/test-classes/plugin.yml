@@ -1,5 +1,5 @@
 name: ProfilePluginV3
-main: com.lgbteeensmc.profilepluginv3
+main: com.lgbteeensmc.profilepluginv3.CommandManager
 version: 0.0.1
 
 commands:
