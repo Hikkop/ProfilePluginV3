@@ -19,5 +19,5 @@ To Do:
 
   - Import SQLibrary using Maven (currently it can't find the jar in the specified repo)
   - Set up database system using SQLibrary
-  - 
+
 <img src='https://travis-ci.org/Iraos/ProfilePluginV3.svg?branch=master'>
