@@ -1,10 +1,8 @@
 name: ProfilePluginV3
-main: com.lgbteeensmc.profilepluginv3
+main: com.lgbteensmc.profilepluginv3.Main
 version: 0.0.1
-
 commands:
    setprofile:
-      description: TEST
+      description: This is a demo command.
       usage: /<command> [player]
-      permission: profileplugin.set
       permission-message: You don't have <permission>

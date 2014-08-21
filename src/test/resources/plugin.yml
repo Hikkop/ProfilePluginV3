@@ -1,3 +1,10 @@
 name: ProfilePluginV3
 main: com.lgbteeensmc.profilepluginv3
 version: 0.0.1
+
+commands:
+   setprofile:
+      description: TEST
+      usage: /<command> [player]
+      permission: profileplugin.set
+      permission-message: You don't have <permission>
